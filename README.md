@@ -13,6 +13,3 @@ Electronics & Communication Engineering student at BIT Mesra (2023–2027) aspir
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya09Goyal&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aditya09Goyal&icon=9&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
