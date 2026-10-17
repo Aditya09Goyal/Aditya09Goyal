@@ -2,8 +2,8 @@ name: Rotate profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours (change to "0 * * * *" for hourly)
-  workflow_dispatch:         # run manually from the Actions tab
+    - cron: "*/5 * * * *"   
+  workflow_dispatch:        
 
 permissions:
   contents: write
