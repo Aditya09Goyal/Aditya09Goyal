@@ -1,0 +1,108 @@
+<!-- ============================================================
+     TEMPLATE 2 · AMBER TERMINAL  (retro CRT, hacker vibe)
+     ============================================================ -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=2200&pause=700&color=FFB000&vCenter=true&multiline=true&width=760&height=130&lines=%3E+booting+aditya.goyal+...;%3E+loading+backend%2C+ai%2C+system_design+...;%3E+status%3A+ready+to+build" alt="boot sequence"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aditya09Goyal&label=visitors&color=ffb000&style=flat-square" alt="visitors"/>
+  <img src="https://img.shields.io/badge/uptime-since%202023-ffb000?style=flat-square&labelColor=1a1206" alt="uptime"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20SDE%20roles-ffb000?style=flat-square&labelColor=1a1206" alt="status"/>
+</p>
+
+```bash
+aditya@bit-mesra:~$ whoami
+```
+
+> **Aditya Goyal** · B.Tech Electronics & Communication Engineering, BIT Mesra (2023–2027)
+>
+> Backend + AI is my focus: I build APIs and services, and wire LLMs into them with RAG and vector search.
+> I like knowing how every layer works underneath, from the database to the model call.
+> Currently levelling up in system design, backend engineering and core SWE fundamentals for SDE roles.
+
+```bash
+aditya@bit-mesra:~$ cat interests.txt
+```
+
+```text
+[*] Backend + AI ...................... APIs, LangChain, RAG, pgvector
+[*] Data Structures & Algorithms ...... C++, daily practice
+[*] Low-Level Design .................. OOP, SOLID, design patterns
+[*] High-Level System Design .......... scalability, APIs, data modelling
+[~] Distributed Systems ............... caching, queues, sharding, consensus
+[*] Full-Stack Web Development ........ React, Node, Express, FastAPI
+[*] Data Analytics & AI ............... Python, RAG, vector search
+
+legend: [*] working knowledge   [~] actively learning
+```
+
+```bash
+aditya@bit-mesra:~$ tree ~/stack
+```
+
+```text
+~/stack
+├── languages/   C++  Python  JavaScript  TypeScript
+├── backend/     Node.js  Express  FastAPI  Socket.io  WebRTC
+├── frontend/    React  React Native  HTML  CSS
+├── data/        PostgreSQL  pgvector  MongoDB
+├── ai/          LangChain  Groq  RAG pipelines
+└── tools/       Git  GitHub  Vercel  Postman  Linux
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,fastapi,postgres,mongodb,git,vercel,linux&theme=dark" alt="skills"/>
+</p>
+
+```bash
+aditya@bit-mesra:~$ ./solve --platform=leetcode
+```
+
+<p align="left">
+  <a href="https://leetcode.com/u/goyal_additya/">
+    <img src="https://leetcard.jacoblin.cool/goyal_additya?theme=dark&font=VT323&ext=heatmap" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://codeforces.com/profile/cp.adi.709"><img src="https://img.shields.io/badge/codeforces-cp.adi.709-ffb000?style=flat-square&logo=codeforces&logoColor=ffb000&labelColor=1a1206"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/goyal_adi"><img src="https://img.shields.io/badge/gfg-goyal__adi-ffb000?style=flat-square&logo=geeksforgeeks&logoColor=ffb000&labelColor=1a1206"/></a>
+</p>
+
+```bash
+aditya@bit-mesra:~$ git log --stats --author="Aditya09Goyal"
+```
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Aditya09Goyal&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffb000&text_color=e6c27a&icon_color=ffb000&ring_color=ffb000" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya09Goyal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffb000&text_color=e6c27a&langs_count=8" alt="langs"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Aditya09Goyal&hide_border=true&background=0D0D0D&ring=FFB000&fire=FFB000&currStreakNum=FFD27F&currStreakLabel=FFB000&sideNums=FFB000&sideLabels=E6C27A&dates=8A6D3B&stroke=4D3300" alt="streak"/>
+</p>
+
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya09Goyal&bg_color=0d0d0d&color=e6c27a&line=ffb000&point=ffd27f&area=true&area_color=ffb000&hide_border=true&custom_title=commit%20signal" alt="activity"/>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Aditya09Goyal/Aditya09Goyal/output/snake-amber.svg" alt="snake"/>
+</p>
+
+```bash
+aditya@bit-mesra:~$ ping aditya --channels
+```
+
+<p align="left">
+  <a href="https://linkedin.com/in/goyaladitya09"><img src="https://img.shields.io/badge/linkedin-goyaladitya09-ffb000?style=flat-square&logo=linkedin&logoColor=ffb000&labelColor=1a1206"/></a>
+  <a href="mailto:goyaladi0911@gmail.com"><img src="https://img.shields.io/badge/email-goyaladi0911-ffb000?style=flat-square&logo=gmail&logoColor=ffb000&labelColor=1a1206"/></a>
+  <a href="https://instagram.com/goyal_additya"><img src="https://img.shields.io/badge/instagram-goyal__additya-ffb000?style=flat-square&logo=instagram&logoColor=ffb000&labelColor=1a1206"/></a>
+</p>
+
+```bash
+aditya@bit-mesra:~$ exit
+logout. thanks for stopping by.
+```
