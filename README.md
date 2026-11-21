@@ -1,140 +1,148 @@
 <!-- ============================================================
-     TEMPLATE 4 · BLUEPRINT ARCHITECT  (system-design showcase)
-     Mermaid diagrams render natively on GitHub.
+     TEMPLATE 1 · MIDNIGHT NEBULA  (recommended, most complete)
      ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e3f,100:10274f&height=150&section=header&text=Aditya%20Goyal&fontSize=52&fontColor=4fc3f7&fontAlignY=42&desc=Systems%2C%20sketched%20before%20they%27re%20shipped&descAlignY=72&descSize=17&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:bb9af7&height=230&section=header&text=Aditya%20Goyal&fontSize=64&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=Backend%20%2B%20AI%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=660&lines=Sketch+the+system.+Then+ship+it.;Backend+%2B+AI+%E2%80%A2+APIs+that+think;APIs+%E2%80%A2+Data+models+%E2%80%A2+Service+boundaries;Low-level+design+%E2%80%A2+High-level+design;Learning+to+scale%2C+one+bottleneck+at+a+time" alt="typing"/>
+  <a href="https://github.com/Aditya09Goyal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+%2B+AI+Developer;Building+LLM-powered+backends+with+RAG;Designing+scalable%2C+distributed+systems;Full-stack+%E2%80%A2+Problem+solver;ECE+%40+BIT+Mesra+%E2%80%A2+Class+of+2027" alt="typing intro"/>
+  </a>
 </p>
 
-## 📐 Spec sheet
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya09Goyal&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Aditya09Goyal?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20opportunities-7dcfff?style=flat-square&labelColor=1a1b26" alt="open to work"/>
+</p>
 
-| Field | Value |
+---
+
+## 💫 About me
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer at work"/>
+
+I'm an **Electronics & Communication Engineering** student at **BIT Mesra (2023–2027)**, building toward a career in software engineering.
+
+I enjoy designing efficient solutions, writing clean code and taking a problem from a whiteboard sketch to something that runs in production. My main focus is **Backend + AI**: building reliable APIs and services, and bringing LLMs into them through RAG pipelines, embeddings and vector search. Alongside that, I'm sharpening **system design**, **backend development** and **software engineering fundamentals** for SDE roles.
+
+- 🤖 Building backend services and AI-powered apps with LLMs, RAG and vector databases
+- 🌱 Learning distributed systems: caching, queues, sharding, replication and consistency
+- 🧩 Practising DSA and low-level design every week
+- 📡 My ECE background makes me think in signals, latency and bandwidth, which is great training for distributed systems
+- 🤝 Happy to collaborate on backend, system design or open-source projects
+
+<br clear="right"/>
+
+```js
+const aditya = {
+  role:        "Backend + AI Developer",
+  education:   "B.Tech ECE @ BIT Mesra (2023–2027)",
+  languages:   ["C++", "Python", "JavaScript", "TypeScript"],
+  backend:     ["Node.js", "Express", "FastAPI", "Socket.io", "WebRTC"],
+  frontend:    ["React", "React Native", "HTML", "CSS"],
+  databases:   ["PostgreSQL", "pgvector", "MongoDB"],
+  ai:          ["LangChain", "RAG pipelines", "Groq"],
+  focus:       ["Backend + AI", "System Design", "Distributed Systems", "Low-Level Design", "DSA"],
+  exploring:   ["Docker", "Redis", "Kafka", "Load balancing", "Consistent hashing"],
+  lookingFor:  "SDE internships and full-time roles",
+};
+```
+
+---
+
+## 🧭 What I care about
+
+| 🧠 Problem solving | 🏗️ System design | 🌐 Distributed systems | 📊 Data & AI |
+|:--|:--|:--|:--|
+| DSA in C++, graphs, DP, greedy, sliding window | HLD and LLD, API design, data modelling, SOLID | Caching, queues, sharding, replication, CAP | Data analytics, RAG pipelines, vector search |
+
+---
+
+## 🤖 Backend + AI: what I work on
+
+I've built projects that combine the two, and this is where most of my learning time goes.
+
+| ⚙️ Backend | 🧠 AI |
 |:--|:--|
-| **Engineer** | Aditya Goyal |
-| **Program** | B.Tech Electronics & Communication Engineering, BIT Mesra (2023–2027) |
-| **Focus** | Backend + AI, system design, distributed systems |
-| **Strengths** | Data structures & algorithms, low-level design, full-stack web, data analytics |
-| **Status** | 🟢 Open to SDE internships and full-time roles |
+| REST APIs with Node.js, Express and FastAPI | LLM apps with LangChain |
+| Auth, validation and clean service layers | RAG: chunking, embeddings, retrieval, citations |
+| Real-time communication with WebSockets | Vector search with pgvector |
+| Schema design in PostgreSQL and MongoDB | Fast LLM inference with Groq, prompt design |
 
-I care about designs that are simple to reason about, measurable under load and honest about their trade-offs. Coming from ECE, I think about latency, bandwidth and noise by default, and I bring that lens to how services talk to each other.
+**Next up:** AI agents and tool use, LLM evaluation, and scaling AI backends with caching and queues.
 
-## 🧰 Materials
+---
+
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,nodejs,express,fastapi,react,postgres,mongodb,git,vercel,postman,linux&perline=7&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nodejs,express,fastapi,mongodb,postgres,git,github,vercel,postman,vscode,linux&perline=9&theme=dark" alt="skills"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-0b1e3f?style=flat-square&logo=socketdotio&logoColor=4fc3f7"/>
-  <img src="https://img.shields.io/badge/WebRTC-0b1e3f?style=flat-square&logo=webrtc&logoColor=4fc3f7"/>
-  <img src="https://img.shields.io/badge/LangChain-0b1e3f?style=flat-square&logo=langchain&logoColor=4fc3f7"/>
-  <img src="https://img.shields.io/badge/pgvector-0b1e3f?style=flat-square&logo=postgresql&logoColor=4fc3f7"/>
-  <img src="https://img.shields.io/badge/React_Native-0b1e3f?style=flat-square&logo=react&logoColor=4fc3f7"/>
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
 </p>
 
-## 🗂️ Architecture notebook
+---
 
-How I think about systems: the building blocks I design with and keep studying.
-
-### Sheet 01 · A scalable web service
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#10274f','primaryTextColor':'#e3f2fd','primaryBorderColor':'#4fc3f7','lineColor':'#4fc3f7','secondaryColor':'#0b1e3f','tertiaryColor':'#0b1e3f','background':'#0b1e3f'}}}%%
-flowchart LR
-  C[Clients] --> LB[Load balancer]
-  LB --> A1[App server 1]
-  LB --> A2[App server 2]
-  LB --> A3[App server N]
-  A1 & A2 & A3 --> R[(Cache)]
-  A1 & A2 & A3 --> P[(Primary DB)]
-  P -->|replication| RR[(Read replicas)]
-  A1 & A2 & A3 -->|events| Q[[Message queue]]
-  Q --> W[Background workers]
-```
-
-### Sheet 02 · Partitioning data with consistent hashing
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#10274f','primaryTextColor':'#e3f2fd','primaryBorderColor':'#4fc3f7','lineColor':'#4fc3f7','secondaryColor':'#0b1e3f','tertiaryColor':'#0b1e3f','background':'#0b1e3f'}}}%%
-flowchart LR
-  K[Request key] --> H[Hash function]
-  H --> RING((Hash ring))
-  RING --> N1[(Shard A)]
-  RING --> N2[(Shard B)]
-  RING --> N3[(Shard C)]
-```
-
-### Sheet 03 · A backend with AI inside (RAG)
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#10274f','primaryTextColor':'#e3f2fd','primaryBorderColor':'#4fc3f7','lineColor':'#4fc3f7','background':'#0b1e3f'}}}%%
-flowchart LR
-  D[Documents] -->|chunk + embed| V[(Vector DB)]
-  U[Client] --> API[API service]
-  API -->|retrieve context| V
-  API -->|prompt + context| L[LLM]
-  L -->|grounded answer| U
-```
-
-## 📏 On the drafting table
-
-What I already use, and what I'm working through for distributed systems.
-
-- [x] Data structures & algorithms in C++
-- [x] Low-level design: OOP, SOLID, design patterns
-- [x] REST APIs and real-time communication (WebSockets)
-- [x] Relational, document and vector databases
-- [x] LLM apps with LangChain, RAG and embeddings
-- [ ] Caching strategies and cache invalidation (Redis)
-- [ ] Message queues and event-driven architecture (Kafka)
-- [ ] Sharding, replication and consistent hashing
-- [ ] CAP theorem, consistency models and consensus (Raft)
-- [ ] Containerisation and deployment (Docker)
-- [ ] AI agents, tool use and LLM evaluation
-
-## 🧮 Load tests
+## 🧩 Problem solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/goyal_additya/"><img src="https://leetcard.jacoblin.cool/goyal_additya?theme=dark&font=Space%20Mono&ext=heatmap" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/goyal_additya/">
+    <img src="https://leetcard.jacoblin.cool/goyal_additya?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/goyal_additya/"><img src="https://img.shields.io/badge/LeetCode-0b1e3f?style=for-the-badge&logo=leetcode&logoColor=4fc3f7"/></a>
-  <a href="https://codeforces.com/profile/cp.adi.709"><img src="https://img.shields.io/badge/Codeforces-0b1e3f?style=for-the-badge&logo=codeforces&logoColor=4fc3f7"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/goyal_adi"><img src="https://img.shields.io/badge/GeeksforGeeks-0b1e3f?style=for-the-badge&logo=geeksforgeeks&logoColor=4fc3f7"/></a>
+  <a href="https://leetcode.com/u/goyal_additya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/cp.adi.709"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/goyal_adi"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Aditya09Goyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya09Goyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Aditya09Goyal&show_icons=true&hide_border=true&bg_color=0b1e3f&title_color=4fc3f7&text_color=b3e5fc&icon_color=4fc3f7&ring_color=4fc3f7" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya09Goyal&layout=compact&hide_border=true&bg_color=0b1e3f&title_color=4fc3f7&text_color=b3e5fc&langs_count=8" alt="langs"/>
+  <img src="https://streak-stats.demolab.com/?user=Aditya09Goyal&theme=tokyonight&hide_border=true&background=1A1B26" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditya09Goyal&hide_border=true&background=0B1E3F&ring=4FC3F7&fire=4FC3F7&currStreakNum=E3F2FD&currStreakLabel=4FC3F7&sideNums=E3F2FD&sideLabels=B3E5FC&dates=6A8BB0&stroke=1E4A7A" alt="streak"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya09Goyal&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=bb9af7&hide_border=true&custom_title=Contribution%20graph" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya09Goyal&bg_color=0b1e3f&color=b3e5fc&line=4fc3f7&point=e3f2fd&area=true&area_color=4fc3f7&hide_border=true&custom_title=Throughput%20over%20time" alt="activity"/>
+  <img src="https://raw.githubusercontent.com/Aditya09Goyal/Aditya09Goyal/output/snake-nebula.svg" alt="contribution snake"/>
+</p>
+
+---
+
+## 🌐 Let's connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/goyaladitya09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:goyaladi0911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/goyal_additya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Aditya09Goyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya09Goyal/Aditya09Goyal/output/snake-blueprint.svg" alt="snake"/>
-</p>
-
-## 🔌 Interfaces
-
-<p align="center">
-  <a href="https://linkedin.com/in/goyaladitya09"><img src="https://img.shields.io/badge/LinkedIn-0b1e3f?style=for-the-badge&logo=linkedin&logoColor=4fc3f7"/></a>
-  <a href="mailto:goyaladi0911@gmail.com"><img src="https://img.shields.io/badge/Email-0b1e3f?style=for-the-badge&logo=gmail&logoColor=4fc3f7"/></a>
-  <a href="https://instagram.com/goyal_additya"><img src="https://img.shields.io/badge/Instagram-0b1e3f?style=for-the-badge&logo=instagram&logoColor=4fc3f7"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Aditya09Goyal&label=Requests%20served&color=4fc3f7&style=for-the-badge" alt="views"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10274f,100:0b1e3f&height=60&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:3d59a1,100:1a1b26&height=120&section=footer" width="100%" alt="footer"/>
 </p>
